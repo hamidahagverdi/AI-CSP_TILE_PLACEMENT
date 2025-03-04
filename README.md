@@ -1,4 +1,4 @@
-# Project 2 – CSP – Tile Placement
+# Project 2 – CSP –Tile Placement Task Description
 Given
 You are given a landscape on which certain “bushes” grow, marked by colors: 1, 2, 3, 4.
 The landscape is of square shape, so, it might be 100 x 100 or 200 x 200 etc.
