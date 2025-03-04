@@ -2,13 +2,13 @@
 Given
 You are given a landscape on which certain “bushes” grow, marked by colors: 1, 2, 3, 4.
 The landscape is of square shape, so, it might be 100 x 100 or 200 x 200 etc.
-You are given a set of “tiles” which are of three different shapes. The tiles are 4 x 4.  One tile only covers part of the landscape.  Here are the shapes :
+You are given a set of “tiles” which are of three different shapes. The tiles are 4 x 4.  One tile only covers part of the landscape.  
 
-Full Block: A “full block” tile covers the full 4 x 4 area, and no bush is then visible in that patch.
+Here are the shapes :
 
-An “outer boundary” tile covers the outer boundary of the 4 x 4 area, and any bush in the middle part is visible.
-
-An “EL” shaped tile covers only two sides of the area.
+1. Full Block: A “full block” tile covers the full 4 x 4 area, and no bush is then visible in that patch.
+2. An “outer boundary” tile covers the outer boundary of the 4 x 4 area, and any bush in the middle part is visible.
+3. An “EL” shaped tile covers only two sides of the area.
 
 You are given a “target” of which bushes should be visible after you have finished placing the tiles.
 Observations
