@@ -28,9 +28,9 @@ More input files can be generated using `https://github.com/amrinderarora/ai/blo
 Algorithm
 Write a CSP algorithm to solve this problem.  The CSP algorithm should have the following components:
 
-Search algorithm to solve the CSP
-Heuristics (min remaining values, least constraining value, tie breaking rules)
-Constraint propagation using AC3.
+1. Search algorithm to solve the CSP
+2. Heuristics (min remaining values, least constraining value, tie breaking rules)
+3. Constraint propagation using AC3.
 
 # Tile Placement CSP Solution
 
