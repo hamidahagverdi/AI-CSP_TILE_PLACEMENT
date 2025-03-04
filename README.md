@@ -18,7 +18,7 @@ Tiles in terms of counts by different shapes.
 Target of how many different bushes should be visible.
 Many input files can be found at `https://github.com/amrinderarora/ai/tree/master/src/main/resources/csp/tileplacement`
 
-More input files can be generated using https://github.com/amrinderarora/ai/blob/master/src/main/java/edu/gwu/cs/ai/csp/tileplacement/TilePlacementProblemGenerator.java
+More input files can be generated using `https://github.com/amrinderarora/ai/blob/master/src/main/java/edu/gwu/cs/ai/csp/tileplacement/TilePlacementProblemGenerator.java`
 
 Algorithm
 Write a CSP algorithm to solve this problem.  The CSP algorithm should have the following components:
