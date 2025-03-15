@@ -1,5 +1,4 @@
 """
-Author: Riyad Abdurahimov
 Description:
   This script contains unit tests for the Tile Placement problem components, including the State, Square, Heuristics,
   and Solver classes. The tests validate the correctness of key operations, such as copying a state, scanning and updating squares,
