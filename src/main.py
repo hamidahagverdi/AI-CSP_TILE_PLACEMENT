@@ -1,9 +1,10 @@
 """
 This program tackles the Tile Placement challenge by applying Constraint Satisfaction Problem methods. 
 It uses a combination of the AC3 algorithm to narrow down possible solutions and backtracking to find the correct arrangement. 
+
 The program starts by loading landscape information from a file, then works to position tiles according to specific constraints.
 Once it finds a valid solution, it saves the results to a file. Throughout the process, the program tracks and displays 
-how long the calculation took, how many tries it made, and the complete solution (if one was found).
+how long the calculation took, how many tries it made, and the complete solution.
 """
 
 import time
