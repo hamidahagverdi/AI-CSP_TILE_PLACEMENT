@@ -1,10 +1,6 @@
 """
-Description:
   This script contains unit tests for the Tile Placement problem components, including the State, Square, Heuristics,
-  and Solver classes. The tests validate the correctness of key operations, such as copying a state, scanning and updating squares,
-  and applying heuristics. Mocking is used in some tests to simulate landscape and square behavior to ensure that the solution
-  operates as expected without requiring actual input data.
-
+  and Solver classes.
 """
 import unittest
 from State import State
